@@ -29,7 +29,7 @@ with st.sidebar:
         selected_model = "models/gemini-1.5-flash"
 
     st.markdown("---")
-    st.info("💡 **시연 모드 활성화**: 결과 고정을 위해 Temperature를 0으로 설정했습니다.")
+    st.info("💡 **시연 모드 활성화**")
 
 st.title("🛡️ 금융 규제 멀티 에이전트 분석 시스템")
 st.subheader("PDF 분석 + 가상 뉴스 트렌드 결합 보고서")
